@@ -1,4 +1,5 @@
 #!/bin/bash
 yum -y update
 yum install -y httpd php
-
+yum instalar -y mysql-server
+yum -y update
